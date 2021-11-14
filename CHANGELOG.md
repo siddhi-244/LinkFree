@@ -1,45 +1,45 @@
-# [0.44.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.43.0...v0.44.0) (2021-11-03)
-
-
-### Features
-
-* change sort from username to name ([#638](https://github.com/EddieHubCommunity/LinkFree/issues/638)) ([5f3ccb1](https://github.com/EddieHubCommunity/LinkFree/commit/5f3ccb141002373cfcb97acb648956a81e95b244))
-
-
-
-# [0.43.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.42.17...v0.43.0) (2021-11-02)
-
-
-### Features
-
-* add meta description for site ([#635](https://github.com/EddieHubCommunity/LinkFree/issues/635)) ([7f3ebfa](https://github.com/EddieHubCommunity/LinkFree/commit/7f3ebfaa2f1b12e919193ada1e0d301759ef66aa))
-
-
-
-## [0.42.17](https://github.com/EddieHubCommunity/LinkFree/compare/v0.42.16...v0.42.17) (2021-11-02)
+## [0.44.8](https://github.com/EddieHubCommunity/LinkFree/compare/v0.44.7...v0.44.8) (2021-11-12)
 
 
 ### Bug Fixes
 
-* **data:** add SyedSohan.json ([#628](https://github.com/EddieHubCommunity/LinkFree/issues/628)) ([5679ac1](https://github.com/EddieHubCommunity/LinkFree/commit/5679ac17687ab857630829f6e08c96bf870cee1d))
+* add tanisha-gupta ([#657](https://github.com/EddieHubCommunity/LinkFree/issues/657)) ([ee500a9](https://github.com/EddieHubCommunity/LinkFree/commit/ee500a991f1bb6c5b19bf95f202dd1220103fd03))
 
 
 
-## [0.42.16](https://github.com/EddieHubCommunity/LinkFree/compare/v0.42.15...v0.42.16) (2021-11-02)
-
-
-### Bug Fixes
-
-* profile picture not loading ([#629](https://github.com/EddieHubCommunity/LinkFree/issues/629)) ([53950c7](https://github.com/EddieHubCommunity/LinkFree/commit/53950c7883add9e5fb732cd63f05f12e086d34d4))
-
-
-
-## [0.42.15](https://github.com/EddieHubCommunity/LinkFree/compare/v0.42.14...v0.42.15) (2021-11-02)
+## [0.44.7](https://github.com/EddieHubCommunity/LinkFree/compare/v0.44.6...v0.44.7) (2021-11-11)
 
 
 ### Bug Fixes
 
-* Cards shrinking in mobile breakpoint ([#633](https://github.com/EddieHubCommunity/LinkFree/issues/633)) ([9e3f5b2](https://github.com/EddieHubCommunity/LinkFree/commit/9e3f5b2106c10479ba73e53ac24b02a3a9f12125))
+* update FayasNoushad ([#655](https://github.com/EddieHubCommunity/LinkFree/issues/655)) ([6462e6e](https://github.com/EddieHubCommunity/LinkFree/commit/6462e6e8bfa8ed4cacf9197b0053151979d6b759))
+
+
+
+## [0.44.6](https://github.com/EddieHubCommunity/LinkFree/compare/v0.44.5...v0.44.6) (2021-11-10)
+
+
+### Bug Fixes
+
+* **data:** add vignesh ([#652](https://github.com/EddieHubCommunity/LinkFree/issues/652)) ([bc806ac](https://github.com/EddieHubCommunity/LinkFree/commit/bc806ac21d8b9e8c61cdd6d5b13bfdb4505fc218))
+
+
+
+## [0.44.5](https://github.com/EddieHubCommunity/LinkFree/compare/v0.44.4...v0.44.5) (2021-11-09)
+
+
+### Bug Fixes
+
+* Normalize name for sorting ([#640](https://github.com/EddieHubCommunity/LinkFree/issues/640)) ([990af66](https://github.com/EddieHubCommunity/LinkFree/commit/990af66ab808f033821c81c3e94cb9012aa05fcb))
+
+
+
+## [0.44.4](https://github.com/EddieHubCommunity/LinkFree/compare/v0.44.3...v0.44.4) (2021-11-09)
+
+
+### Bug Fixes
+
+* **accessibility:** missing aria-label ([#653](https://github.com/EddieHubCommunity/LinkFree/issues/653)) ([e8af2df](https://github.com/EddieHubCommunity/LinkFree/commit/e8af2df59d0f2cfd965161473b4b2474218ae9c8))
 
 
 
